@@ -2,6 +2,12 @@
 ## Drunk bird
 I am a student in [university of sichuan](https://scu.edu.cn). Check out my page at future.
 
+### Education
+
+* **phD** in _university of sichuan_ (2020)
+* **MA** in _university of sichuan_ (2017)
+
+
  
 ### Hi there 👋
 
