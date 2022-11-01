@@ -1,3 +1,8 @@
+
+## Drunk bird
+I am a student in [university of sichuan](https://scu.edu.cn). Check out my page at future.
+
+ 
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
